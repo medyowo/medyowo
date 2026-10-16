@@ -8,8 +8,6 @@
 
 *"Come in, make yourself comfortable by the fire, and mind the sleeping code."* ( ˘ᵕ˘ )
 
-![Visitors](https://komarev.com/ghpvc/?username=medyowo&label=Visitors+of+the+cabinet&color=8b3a4f&labelColor=3d2b3d&style=flat-square)
-
 ```
 ❦ ━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━ ❦
 ```
@@ -18,9 +16,9 @@
 
 ## ₍ᐢ. .ᐢ₎ About me
 
-Hello, I'm **Océane**, an AI engineer
+Hello, I'm **Océane**, an AI engineer ✮⋆˙
 I spend my days taming language models and turning data into something useful
-(and, whenever possible, something a little bit beautiful).
+(and, whenever possible, something a little bit beautiful)
 
 - ✦ Working on **AI / data** projects
 - ✦ Fond of Victorian aesthetics, curiosity cabinets and cozy things
