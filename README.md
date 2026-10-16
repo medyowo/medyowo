@@ -18,13 +18,13 @@
 
 ## ₍ᐢ. .ᐢ₎ About me
 
-Hello, I'm **Océane**, an AI engineer (⸝⸝> ᴗ <⸝⸝)
+Hello, I'm **Océane**, an AI engineer
 I spend my days taming language models and turning data into something useful
 (and, whenever possible, something a little bit beautiful).
 
-- ✦ (๑•̀ㅂ•́)و Working on **AI / data** projects
-- ✦ ( ´ ▽ ` )ﾉ Fond of Victorian aesthetics, curiosity cabinets and cozy things
-- ✦ ଘ(੭*ˊᵕˋ)੭ I like when engineering and craft meet
+- ✦ Working on **AI / data** projects
+- ✦ Fond of Victorian aesthetics, curiosity cabinets and cozy things
+- ✦ I like when engineering and craft meet
 
 <br>
 
@@ -32,21 +32,27 @@ I spend my days taming language models and turning data into something useful
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-8b3a4f?style=for-the-badge&logo=python&logoColor=f5e6d3&labelColor=3d2b3d)
-![PyTorch](https://img.shields.io/badge/PyTorch-5c3d6e?style=for-the-badge&logo=pytorch&logoColor=f5e6d3&labelColor=3d2b3d)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-8b3a4f?style=for-the-badge&logo=scikit-learn&logoColor=f5e6d3&labelColor=3d2b3d)
-![LangChain](https://img.shields.io/badge/LangChain-5c3d6e?style=for-the-badge&logo=langchain&logoColor=f5e6d3&labelColor=3d2b3d)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-8b3a4f?style=for-the-badge&logo=microsoftazure&logoColor=f5e6d3&labelColor=3d2b3d)
-![Docker](https://img.shields.io/badge/Docker-5c3d6e?style=for-the-badge&logo=docker&logoColor=f5e6d3&labelColor=3d2b3d)
-![Git](https://img.shields.io/badge/Git-8b3a4f?style=for-the-badge&logo=git&logoColor=f5e6d3&labelColor=3d2b3d)
-![SQL](https://img.shields.io/badge/SQL-5c3d6e?style=for-the-badge&logo=postgresql&logoColor=f5e6d3&labelColor=3d2b3d)
-![Linux](https://img.shields.io/badge/Linux-8b3a4f?style=for-the-badge&logo=linux&logoColor=f5e6d3&labelColor=3d2b3d)
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/python/a14a5e" width="40" height="40" alt="Python"><br><sub><b>Python</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/pytorch/a14a5e" width="40" height="40" alt="PyTorch"><br><sub><b>PyTorch</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/scikitlearn/a14a5e" width="40" height="40" alt="Scikit-Learn"><br><sub><b>Scikit-Learn</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/langchain/a14a5e" width="40" height="40" alt="LangChain"><br><sub><b>LangChain</b></sub></td>
+    <td align="center">₊‧°𐐪♡𐑂°‧₊<br><sub><b>Azure OpenAI</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/docker/a14a5e" width="40" height="40" alt="Docker"><br><sub><b>Docker</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/git/a14a5e" width="40" height="40" alt="Git"><br><sub><b>Git</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/postgresql/a14a5e" width="40" height="40" alt="SQL"><br><sub><b>SQL</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/linux/a14a5e" width="40" height="40" alt="Linux"><br><sub><b>Linux</b></sub></td>
+  </tr>
+</table>
 
 </div>
 
 <br>
 
-## (づ｡◕‿‿◕｡)づ Featured projects
+## 𐙚 ‧₊˚ ⋅Featured projects
 
 | ✦ Project | ✦ Description |
 |:----------|:--------------|
